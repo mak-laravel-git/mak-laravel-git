@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="assets/profile-banner.png" alt="maktech Laravel Engineering - PHP, React, Inertia, Next.js and Tailwind" width="100%" />
+<img src="assets/profile-banner.png" alt="maktech Laravel Studio - PHP, React, Inertia, Next.js and Tailwind" width="100%" />
 
-# maktech · Laravel Engineering
+# maktech Laravel Studio
 
 **Modern Laravel applications. Thoughtful architecture. Better developer experiences.**
 
-We are the **Laravel engineering team at maktech**, building maintainable web applications, APIs, business platforms, and full-stack products with a Laravel-first mindset.
+We are the **Laravel development studio at maktech**, building maintainable web applications, APIs, business platforms, and full-stack products with a Laravel-first mindset.
 
 [**Explore repositories**](https://github.com/mak-laravel-git?tab=repositories) · [**GitHub profile**](https://github.com/mak-laravel-git)
 
@@ -50,7 +50,7 @@ Some client and internal projects are intentionally **private**. Public reposito
 
 <div align="center">
 
-**Laravel at the core. Built by maktech.**
+**Laravel at the core. Crafted at maktech Laravel Studio.**
 
 [View public repositories](https://github.com/mak-laravel-git?tab=repositories)
 
